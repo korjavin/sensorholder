@@ -1,0 +1,15 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Slicer temporary and output files
+*.gcode
+
+# Blender backup files
+*.blend1
+*.blend2
