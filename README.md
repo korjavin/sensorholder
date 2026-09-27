@@ -1,5 +1,7 @@
 # Sensorholder — desk stand for a round thermo-hygrometer
 
+On Thingiverse: https://www.thingiverse.com/thing:7415300
+
 A 3D-printed desk stand for a small round panel-mount temperature/humidity sensor.
 The sensor snaps into a ring tilted back 15° (like a phone stand), so the display is easy to read on a desk.
 
