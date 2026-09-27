@@ -7,6 +7,10 @@ The sensor snaps into a ring tilted back 15° (like a phone stand), so the displ
 |---|---|---|
 | ![sensor](sensor.jpg) | ![front](preview.png) | ![back](preview_back.png) |
 
+## Sensor
+
+Round thermo-hygrometer: [Amazon B07JDSHD4Z](https://www.amazon.com/dp/B07JDSHD4Z)
+
 ## Sensor dimensions
 
 - Body Ø41 mm, front flange Ø45 mm
@@ -45,3 +49,7 @@ blender -b -P build_holder.py   # writes holder.stl and holder.blend
 - `CLIP_H` (1.5): notch depth for the clips. Loose → 1.2; too tight → 1.8
 - `BODY_LEN` (20): body depth behind the flange (guessed — measure it); sets the ring height
 - `TILT` (15°): lean angle
+
+## License
+
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — print, remix, share; credit appreciated.
